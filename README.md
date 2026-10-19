@@ -4,7 +4,7 @@
 
 This project analyses the performance and risk characteristics of selected international mutual funds managed by Vanguard Group, BlackRock-iShares, and Fidelity Investments.
 
-The study uses monthly Net Asset Value (NAV) and fund-level financial data covering January 2016 to December 2025. It applies risk-adjusted performance measures, factor-model analysis, stress-period analysis, and Monte Carlo simulation to evaluate fund behaviour across different market conditions.
+The study uses monthly Net Asset Value (NAV) and fund-level financial data covering January 2018 to December 2025. It applies risk-adjusted performance measures, factor-model analysis, stress-period analysis, and Monte Carlo simulation to evaluate fund behaviour across different market conditions.
 
 ## Research Objectives
 
@@ -26,7 +26,7 @@ The study considers funds across multiple categories, including large-cap equity
 
 ## Study Period
 
-**January 2016 – December 2025**
+**January 2018 – December 2025**
 
 Monthly NAV and return data are used to evaluate long-term performance and behaviour during selected periods of financial stress.
 
@@ -89,11 +89,11 @@ The research considers established asset-pricing frameworks including the Fama-F
 
 Monte Carlo simulation is used to generate alternative portfolio combinations and identify allocations that provide favourable risk-adjusted performance under different market conditions.
 
-The analysis includes 50,000 simulated portfolio combinations.
+The analysis includes 10,000 simulated portfolio combinations.
 
 ## Power BI Dashboard
 
-The project includes Power BI visualisations developed to compare fund performance, risk-adjusted returns, stress-period behaviour, and portfolio allocation.
+The project includes Power BI visualisations for comparing fund performance, risk-adjusted returns, stress-period behaviour, and portfolio allocation.
 
 ### Key Visualisations
 
@@ -122,7 +122,7 @@ The complete Power BI dashboard is available here:
 ## Project Files
 
 - `mutual_fund_analysis.xlsx` - Excel workbook containing the project data, calculations, performance metrics, stress-period analysis, and portfolio simulation results.
-- `Performance_and_Risk_Analysis_...pdf` - Full dissertation documenting the research methodology, analysis, findings, and conclusions.
+- `Performance_and_Risk_Analysis_of_International_Mutual_Funds.pdf` - Full dissertation documenting the research methodology, analysis, findings, and conclusions.
 
 ## Tools and Technologies
 
@@ -133,7 +133,6 @@ The complete Power BI dashboard is available here:
 - NumPy
 - Matplotlib
 - Seaborn
-- Excel
 - Power BI
 - Financial Analytics
 - Statistical Analysis
