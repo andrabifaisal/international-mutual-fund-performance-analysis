@@ -54,6 +54,12 @@ The analysis includes traditional measures of investment performance and risk, i
 - Standard Deviation
 - Return Analysis
 
+## Python Analysis
+
+The Python analysis was conducted using Jupyter Notebook and includes correlation analysis and Monte Carlo-based portfolio optimisation.
+
+[View Python Analysis](Python/mutual_fund_analysis.ipynb)
+
 ## Stress-Period Analysis
 
 Fund performance is examined during major market stress events, including:
@@ -113,6 +119,12 @@ The complete Power BI dashboard is available here:
 
 - Microsoft Excel
 - Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Excel
 - Power BI
 - Financial Analytics
 - Statistical Analysis
