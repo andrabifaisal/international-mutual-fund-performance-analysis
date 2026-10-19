@@ -76,6 +76,34 @@ Monte Carlo simulation is used to generate alternative portfolio combinations an
 
 The analysis includes 50,000 simulated portfolio combinations.
 
+## Power BI Dashboard
+
+The project includes Power BI visualisations developed to compare fund performance, risk-adjusted returns, stress-period behaviour, and portfolio allocation.
+
+### Key Visualisations
+
+#### Sharpe Ratio Comparison
+
+![Sharpe Ratio Comparison](PowerBI/Screenshots/Sharpe%20Ratio%20Bar%20chart.png)
+
+#### Risk vs Return Analysis
+
+![Risk vs Return Analysis](PowerBI/Screenshots/Risk%20vs%20Return%20Scatter%20Plot%20%28Sharpe%20Frontier%29.png)
+
+#### Stress-Period Performance
+
+![Sharpe Ratio Across Stress Periods](PowerBI/Screenshots/Sharpe%20Ratio%20Comparison%20Across%20Stress%20Periods.png)
+
+#### Optimal Portfolio Allocation
+
+![Optimal Portfolio Allocation](PowerBI/Screenshots/Optimal%20Portfolio%20Allocation%20Pie%20Chart.png)
+
+### Power BI File
+
+The complete Power BI dashboard is available here:
+
+[`mutual_fund_dashboard.pbix`](PowerBI/mutual_fund_dashboard.pbix)
+
 ## Project Files
 
 - `mutual_fund_analysis.xlsx` - Excel workbook containing the project data, calculations, performance metrics, stress-period analysis, and portfolio simulation results.
