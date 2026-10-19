@@ -60,6 +60,15 @@ The Python analysis was conducted using Jupyter Notebook and includes correlatio
 
 [View Python Analysis](Python/mutual_fund_analysis.ipynb)
 
+### Python Outputs
+
+- Efficient Frontier using Monte Carlo simulation
+- Correlation heatmap of fund returns
+
+![Efficient Frontier](Python/Screenshots/efficient_frontier_monte_carlo.png)
+
+![Correlation Heatmap](Python/Screenshots/correlation_heatmap.png)
+
 ## Stress-Period Analysis
 
 Fund performance is examined during major market stress events, including:
